@@ -1,6 +1,6 @@
 # CsvEditSharp
 
-CsvEditSharp is a CSV editor that describes read / write settings with C # script.
+CsvEditSharp is a CSV editor that describes read / write settings with C# script.
 
 In the script, write read / write settings using API of "CsvHelper" which is a open source .Net class library.
 
